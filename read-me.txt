@@ -1,0 +1,3 @@
+Paste 'cert' and 'key' into Python project folder!
+
+These are certificates I believe to verify the connections
